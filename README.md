@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 # 💫 About Me:
 I am constantly seeking new challenges and opportunities to grow as a developer. Whether through learning new technologies, working on new projects, or collaborating with other professionals, I am always striving to be the best I can be.
 
