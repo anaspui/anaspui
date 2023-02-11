@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I am constantly seeking new challenges and opportunities to grow as a developer. Whether through learning new technologies, working on new projects, or collaborating with other professionals, I am always striving to be the best I can be.
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2FMuyGomez1%2Fcollections%2F1103806-GIF-S&psig=AOvVaw2sAKWrl3ARmFSYA5lkTic8&ust=1676199739968000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjX5OGojf0CFQAAAAAdAAAAABA5")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2FMuyGomez1%2Fcollections%2F1103806-GIF-S&psig=AOvVaw2sAKWrl3ARmFSYA5lkTic8&ust=1676199739968000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjX5OGojf0CFQAAAAAdAAAAABA5">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anas2om) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsha) 
