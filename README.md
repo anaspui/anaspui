@@ -1,26 +1,72 @@
-# 💫 About Me:
-I am constantly seeking new challenges and opportunities to grow as a developer. Whether through learning new technologies, working on new projects, or collaborating with other professionals, I am always striving to be the best I can be.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anaspui.anaspui">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Omar..;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anas2om) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsha) 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/omsha" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/anas2om/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Mohammad Omar
+  <br>
+  <br>
+  I seek new challenges and opportunities for growth,
+  <br>
+  I continuously learn new technologies and work on diverse projects,
+  <br>
+  Collaborating with other professionals helps me improve and reach my full potential,
+  <br>
+  I am always striving to be the best developer I can be,
+<br>
+📫 How to reach me: <a href="mailto: omar24md@gmail.com">omar24md@gmail.com</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=anaspui&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anaspui&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaspui&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anaspui&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+</p>
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=anaspui&icon=5&color=1)](https://visitcount.itsvg.in)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=anaspui&theme=react&border=61dafb&hide_border=true" alt="anaspui" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=anaspui&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaspui&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anaspui&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-  ## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anaspui) 
-
-
+<hr>
