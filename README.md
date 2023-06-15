@@ -43,8 +43,9 @@
   <code><img title="NestJs" height="25" src="images/nestjs.svg"></code>
   <code><img title="Json" height="25" src="images/json.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Oracle" height="25" src="images/oracle.png"></code>
   <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
