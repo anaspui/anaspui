@@ -33,16 +33,19 @@
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+  <code><img title="NestJs" height="25" src="images/nestjs.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
 
 </p>
 <hr>
