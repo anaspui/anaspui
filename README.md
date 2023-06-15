@@ -41,6 +41,7 @@
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
   <code><img title="NestJs" height="25" src="images/nestjs.svg"></code>
+  <code><img title="NestJs" height="25" src="images/json.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
