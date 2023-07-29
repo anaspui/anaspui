@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mohammad Omar
+  Hello, I go by two names: Mohammad Omar and Anas Omar.
   <br>
   <br>
   I seek new challenges and opportunities for growth,
