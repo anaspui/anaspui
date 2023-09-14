@@ -71,7 +71,6 @@
     </a>
   </div>
   <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anaspui&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anaspui&custom_title=Anaspui's%20Contribution%20Graph&&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
