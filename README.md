@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anaspui.anaspui">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Omar..;Nice+to+meet+you!&center=true&size=30">
+  <a href="">
+    <img src="https://i.ibb.co/yykN1Kt/ezgif-3-9d3e07c7fc-1-1.gif">
   </a>
 </h1>
 
