@@ -21,7 +21,7 @@
   <br>
   Collaborating with other professionals helps me improve and reach my full potential,
   <br>
-  I am always striving to be the best developer I can be,
+  I am always striving to be the best developer I can be
 <br>
 <!-- 📫 How to reach me: <a href="mailto: x@x.x">x@x.x</a> -->
 
