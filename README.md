@@ -23,7 +23,7 @@
   <br>
   I am always striving to be the best developer I can be,
 <br>
-📫 How to reach me: <a href="mailto: omar24md@gmail.com">omar24md@gmail.com</a>
+<!-- 📫 How to reach me: <a href="mailto: x@x.x">x@x.x</a> -->
 
 </p>
 
@@ -47,7 +47,6 @@
   <code><img title="NodeJs" height="25" src="images/node1.png"></code>
   <code><img title="Spring" height="25" src="images/spring.png"></code>
   <code><img title="NestJs" height="25" src="images/nestjs.svg"></code>
-  <code><img title="Json" height="25" src="images/json.svg"></code>
   <br>
   <br>
   <code><img title="PostgreSQL" height="25" src="images/pg.png"></code>
